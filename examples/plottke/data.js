@@ -172,6 +172,18 @@ var APP_DATA = {
           "pitch": 0.05117384463868646,
           "rotation": 0,
           "target": "4-gsau3072"
+        },
+        {
+          "yaw": -1.5921498157109681,
+          "pitch": 0.4367510079812966,
+          "rotation": 0,
+          "target": "5-gsau3062"
+        },
+        {
+          "yaw": 1.5215110759204897,
+          "pitch": 0.42428813918460584,
+          "rotation": 0,
+          "target": "7-gsav3077"
         }
       ],
       "infoHotspots": []
