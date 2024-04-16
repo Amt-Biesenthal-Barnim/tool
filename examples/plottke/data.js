@@ -306,7 +306,14 @@ var APP_DATA = {
           "target": "5-gsau3062"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.43553150031373455,
+          "pitch": 0.6743370268991491,
+          "title": "GIS-Koordinator",
+          "text": "Herr Blank<div>Tel.: 03337/459976</div><div>Mail: blank@amt-biesenthal-barnim.de</div>"
+        }
+      ]
     },
     {
       "id": "7-gsav3077",
