@@ -311,7 +311,7 @@ var APP_DATA = {
           "yaw": 0.7203732277585182,
           "pitch": 0.674314315191122,
           "title": "GIS-Koordinator",
-          "text": "Herr Blank<br>Tel.: 03337/459976<br>Mail: <a href='mailto:blank@amt-biesenthal-barnim.de'blank@amt-biesenthal-barnim.de</a>"
+          "text": "Herr Blank<br>Tel.: 03337/459976<br>Mail: <a href='mailto:blank@amt-biesenthal-barnim.de'>blank@amt-biesenthal-barnim.de</a>"
         }
       ]
     },
