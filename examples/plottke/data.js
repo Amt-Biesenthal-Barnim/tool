@@ -308,10 +308,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.43553150031373455,
-          "pitch": 0.6743370268991491,
+          "yaw": 0.7203732277585182,
+          "pitch": 0.674314315191122,
           "title": "GIS-Koordinator",
-          "text": "Herr Blank<br>Tel.: 03337/459976<br>Mail: mailto:blank@amt-biesenthal-barnim.de"
+          "text": "Herr Blank<br>Tel.: 03337/459976<br>Mail: blank@amt-biesenthal-barnim.de"
         }
       ]
     },
