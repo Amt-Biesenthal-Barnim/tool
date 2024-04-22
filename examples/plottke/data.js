@@ -191,7 +191,7 @@ var APP_DATA = {
           "yaw": -2.611754766559436,
           "pitch": -0.1544156243680419,
           "title": "Bekanntmachungen",
-          "text": "<object width='400' height='320' type='application/pdf' data='https://raw.githubusercontent.com/Amt-Biesenthal-Barnim/marzipano-tool/main/examples/plottke/img/Stellenausschreibungen .pdf'>"
+          "text": "<object width='400' height='320' type='application/pdf' data='https://raw.githubusercontent.com/Amt-Biesenthal-Barnim/marzipano-tool/main/examples/plottke/img/Stellenausschreibungen.pdf'>"
         }
       ]
     },
