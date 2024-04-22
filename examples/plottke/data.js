@@ -191,7 +191,7 @@ var APP_DATA = {
           "yaw": -2.611754766559436,
           "pitch": -0.1544156243680419,
           "title": "Bekanntmachungen",
-          "text": "<iframe width='800' height='640' src='https://www.geoportal-biesenthal-barnim.de/viewer2.php'></iframe>"
+          "text": "<iframe width='800' height='640' src='https://www.amt-biesenthal-barnim.de'></iframe>"
         }
       ]
     },
