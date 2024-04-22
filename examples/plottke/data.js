@@ -191,7 +191,7 @@ var APP_DATA = {
           "yaw": -2.611754766559436,
           "pitch": -0.1544156243680419,
           "title": "Bekanntmachungen",
-          "text": "<iframe width='400' height='320' src='img/Stellenausschreibungen.pdf'></iframe>"
+          "text": "<iframe width='800' height='640' src='img/Stellenausschreibungen.pdf'></iframe>"
         }
       ]
     },
