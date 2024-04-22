@@ -191,7 +191,7 @@ var APP_DATA = {
           "yaw": -2.611754766559436,
           "pitch": -0.1544156243680419,
           "title": "Bekanntmachungen",
-          "text": "<iframe src='https://www.amt-biesenthal-barnim.de/stellenausschreibungen' height='400' width='320' title='Stellenausschreibungen'></iframe>"
+          "text": "<iframe src='https://www.google.com/maps' height='400' width='320' title='Stellenausschreibungen'></iframe>"
         }
       ]
     },
