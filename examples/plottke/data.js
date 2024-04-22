@@ -186,7 +186,14 @@ var APP_DATA = {
           "target": "7-gsav3077"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -2.611754766559436,
+          "pitch": -0.1544156243680419,
+          "title": "Bekanntmachungen",
+          "text": "hier steht ein text..."
+        }
+      ]
     },
     {
       "id": "4-gsau3072",
