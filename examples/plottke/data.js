@@ -315,8 +315,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.7203732277585182,
-          "pitch": 0.674314315191122,
+          "yaw": 0.8614345131960146,
+          "pitch": 0.3135325646858327,
           "title": "GIS-Koordinator",
           "text": "<a target='_blank' href='https://raw.githubusercontent.com/Amt-Biesenthal-Barnim/marzipano-tool/main/examples/plottke/img/Foto_Blank_GIS.jpg'><img source src='https://raw.githubusercontent.com/Amt-Biesenthal-Barnim/marzipano-tool/main/examples/plottke/img/Foto_Blank_GIS.jpg' height='400' width='300'></img></a><br>Herr Blank<br>Tel. <a href='tel:+493337459976'>03337/459976</a><br>Mail: <a href='mailto:blank@amt-biesenthal-barnim.de'>blank@amt-biesenthal-barnim.de</a>"
         }
