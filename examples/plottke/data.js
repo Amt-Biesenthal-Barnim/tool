@@ -573,6 +573,37 @@ var APP_DATA = {
         }
       ],
       "infoHotspots": []
+    },
+    {
+      "id": "13-gsaw3110",
+      "name": "GSAW3110",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1440,
+      "initialViewParameters": {
+        "yaw": 0.24434187840352806,
+        "pitch": 0.41091846930622467,
+        "fov": 1.5465028311360536
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
     }
   ],
   "name": "Project Title",
