@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-eingang_rckseite",
-      "name": "Eingang_Rückseite",
+      "name": "Eingang Rückseite",
       "levels": [
         {
           "tileSize": 256,
@@ -40,7 +40,7 @@ var APP_DATA = {
     },
     {
       "id": "1-flur_eg",
-      "name": "Flur_EG",
+      "name": "Flur EG",
       "levels": [
         {
           "tileSize": 256,
@@ -90,7 +90,7 @@ var APP_DATA = {
     },
     {
       "id": "2-flur_eg_ost",
-      "name": "Flur_EG_Ost",
+      "name": "Flur EG Ost",
       "levels": [
         {
           "tileSize": 256,
@@ -128,7 +128,7 @@ var APP_DATA = {
     },
     {
       "id": "3-flur_eg_west",
-      "name": "Flur_EG_West",
+      "name": "Flur EG West",
       "levels": [
         {
           "tileSize": 256,
@@ -172,7 +172,7 @@ var APP_DATA = {
     },
     {
       "id": "4-zimmer_111",
-      "name": "Zimmer_111",
+      "name": "Zimmer 111",
       "levels": [
         {
           "tileSize": 256,
