@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-gsav3095",
-      "name": "GSAV3095",
+      "name": "Haupteingang",
       "levels": [
         {
           "tileSize": 256,
@@ -40,7 +40,7 @@ var APP_DATA = {
     },
     {
       "id": "1-gsav3089",
-      "name": "GSAV3089",
+      "name": "Empfang",
       "levels": [
         {
           "tileSize": 256,
@@ -84,7 +84,7 @@ var APP_DATA = {
     },
     {
       "id": "2-gsav3083",
-      "name": "GSAV3083",
+      "name": "Treppenhaus EG",
       "levels": [
         {
           "tileSize": 256,
